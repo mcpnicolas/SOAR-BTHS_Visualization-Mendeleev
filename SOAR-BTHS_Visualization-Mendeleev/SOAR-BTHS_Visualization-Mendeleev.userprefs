@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HoverUnknown.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HoverUnknown.cs" Line="31" Column="43" />
+      <File FileName="Assets/Scripts/Scorekeeper.cs" Line="7" Column="37" />
+      <File FileName="Assets/Scripts/ItemDragHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HoverInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextChangeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CheckUnknown.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
